@@ -56,7 +56,6 @@ Theoretical paradigms for machine learning **differ** mainly on what they <u>ass
   <img src="images/theoretical-paradigms.png" alt="drawing" width="400" />
 </p>
 
-![test_img](images/theoretical-paradigms.png)
 
 * **<font color="7EAA55">Statistical learning theory (focus on this course):</font>** assumes data is <u>i.i.d</u> from an <u>unknown distribution P(x)</u>, does not estimate the distribution (directly)
 
@@ -114,7 +113,7 @@ $$
     * **Most specific hypothesis $S$:** <u>cannot be made smaller</u> without excluding positive training points
 
 <p align="center">
-  <img src="/images/version-space.png" alt="drawing" width="300">
+  <img src="images/version-space.png" alt="drawing" width="300">
 </p>
 
   * Intuitively, the **”safest” hypothesis** to choose from the version space is the one that is furthers from the positive and negative training examples $\rightarrow$ <u>maximum margin</u>
