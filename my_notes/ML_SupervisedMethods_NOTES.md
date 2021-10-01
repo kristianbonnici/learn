@@ -56,6 +56,8 @@ Theoretical paradigms for machine learning **differ** mainly on what they <u>ass
   <img src="/images/theoretical-paradigms.png" alt="drawing" width="400">
 </p>
 
+![test_img](/images/theoretical-paradigms.png)
+
 * **<font color="7EAA55">Statistical learning theory (focus on this course):</font>** assumes data is <u>i.i.d</u> from an <u>unknown distribution P(x)</u>, does not estimate the distribution (directly)
 
 * **<font color="F5C342">Bayesian Statistics:</font>** assumes <u>prior information on P(x)</u>, estimates posterior probabilities
