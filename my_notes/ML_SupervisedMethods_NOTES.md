@@ -52,8 +52,8 @@
 
 Theoretical paradigms for machine learning **differ** mainly on what they <u>assume about the process generating the data</u>:
 
-<p align=center>
-  <img src="/images/theoretical-paradigms.png" alt=drawing width=400>
+<p align="center">
+  <img src="/images/theoretical-paradigms.png" alt="drawing" width=400>
 </p>
 
 ![test_img](/images/theoretical-paradigms.png)
